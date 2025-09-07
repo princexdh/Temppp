@@ -9,6 +9,6 @@
   "instagram": "https://instagram.com/freemodx",
   "facebook": "https://t.me/FreeModx",
   
-  "drag_mode": true,
+  "drag_mode": false,
   "dash_color": "#FF9800"
 }
