@@ -1,0 +1,14 @@
+{
+  "show_dialog": true,
+  "description": "✨ What's New:\n\n• Brand new modern UI overhaul\n• Improved speed and stability\n• Fixed known bugs\n• Better security & performance",
+  "update_text": "🚀 Update Now",
+  "update_url": "https://t.me/FreeModx",
+  
+  "telegram": "https://t.me/FreeModx",
+  "youtube": "https://t.me/FreeModx",
+  "instagram": "https://instagram.com/freemodx",
+  "facebook": "https://t.me/FreeModx",
+  
+  "drag_mode": true,
+  "dash_color": "#FF9800"
+}
